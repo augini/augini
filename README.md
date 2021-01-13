@@ -1,10 +1,7 @@
 ### Hi there !
 
-Take one step at a time:
-
 - 🌱 I’m currently learning AWS / Dart / DevOps
 - 👯 I’m looking to collaborate on React Native
-- 📫 How to reach me: atabekov.com
 
 <details open>
  <summary> 🆒 <b>Github Stats</b>: </summary>
