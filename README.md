@@ -15,7 +15,7 @@
 
 <tr>
 <td width="50%">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=augini&hide=css,java,html&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=augini&hide=css,html&layout=compact">
 </td>
   
 <tr> 
