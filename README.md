@@ -25,4 +25,4 @@
   
 </table>
 
-![Visit at atabekov.com](/Atabekov Farrukh.png)
+![Visit at atabekov.com](/Atabekov_Farrukh.png)
