@@ -1,3 +1,6 @@
+
+[<img src="./Atabekov_Farrukh.png">](https://www.atabekov.com/)
+
 ### Hi there !
 
 - 🌱 I’m currently learning AWS / Dart / DevOps
@@ -17,12 +20,7 @@
 <td width="50%">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=augini&hide=css,html&layout=compact">
 </td>
-  
-<tr> 
-<td width = "50%">
- <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=augini">
-</td>
+ 
   
 </table>
 
-![Visit at atabekov.com](/Atabekov_Farrukh.png)
