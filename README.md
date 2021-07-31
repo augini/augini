@@ -1,26 +1,10 @@
 
 [<img src="./Atabekov_Farrukh.png">](https://www.atabekov.com/)
 
-### Hi there !
 
-- 🌱 I’m currently learning AWS / Dart / DevOps
-- 👯 I’m looking to collaborate on React Native
-
-<details open>
- <summary> 🆒 <b>Github Stats</b>: </summary>
-<br>
-
-<table width="50%"> 
-<tr>
-<td width="50%">
-<img src = "https://github-readme-stats.vercel.app/api?username=augini&show_icons=true&count_private=true">
-</td>
-
-<tr>
-<td width="50%">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=augini&hide=css,html&layout=compact">
-</td>
- 
-  
 </table>
 
+|![](https://github-readme-stats.vercel.app/api?username=augini&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=augini&layout=compact&hide=css,html,php&theme=tokyonight&langs_count=10)|
+|-|-|
+
+![](https://activity-graph.herokuapp.com/graph?username=augini&theme=redical)
