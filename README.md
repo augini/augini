@@ -8,3 +8,5 @@
 |-|-|
 
 ![](https://activity-graph.herokuapp.com/graph?username=augini&theme=redical)
+
+[Profile on 🦊 Gitlab ](https://gitlab.com/Farrukhbek)
